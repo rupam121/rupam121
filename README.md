@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupam121" alt="rupam121" /></a> </p>
 
-- 🌱 I’m currently learning **java,JavaScript**
+- 🌱 I’m currently learning **Paython,JavaScript**
 
 - 📫 How to reach me **@The_rupam_**
 
