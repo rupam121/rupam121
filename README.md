@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Paython,JavaScript**
+- 🌱 I’m currently learning **Python,JavaScript**
 
 - 📫 How to reach me **@The_rupam_**
 
