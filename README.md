@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **Python,JavaScript**
+- 🌱 I’m currently learning **Full Stack Devlopment**
 
-- 📫 How to reach me **@The_rupam_**
+- 📫 How to reach me **rupamgiri16@gmail.com**
 
 - ⚡ Fun fact **I think i am funny.**
 
