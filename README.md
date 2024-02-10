@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rupamgiri16@gmail.com**
 
-- 📄 Know about my experiences [2month Internship]
+- 📄 Experiences [2month Internship]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
