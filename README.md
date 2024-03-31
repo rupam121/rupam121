@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Ui Development**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **BackEnd**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,C/C++,GIT/GITHUB**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,React.Js,SQL,MongoDB,C/C++,Java**
 
 - 📫 How to reach me **rupamgiri16@gmail.com**
 
