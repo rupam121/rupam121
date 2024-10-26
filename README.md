@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/the_rupam_" target="blank"><img src="https://img.shields.io/twitter/follow/the_rupam?logo=twitter&style=for-the-badge" alt="the_rupam" /></a> </p>
 
-- 🔭 I’m currently working on **Ui Development**
+- 🔭 I’m currently working on **Front End Development**
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, React.Js, Node.js, SQL, MongoDB, C/C++**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, React.Js, Node.js, MongoDB, SQL, C/C++**
 
 - 📫 How to reach me **rupamgiri16@gmail.com**
 
