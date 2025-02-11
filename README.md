@@ -1,6 +1,6 @@
 ![Masterhead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm RUPAM GIRI</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi👋, I'M RUPAM GIRI</h1>
+<h3 align="center">A Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupam121&label=Profile%20views&color=0e75b6&style=flat" alt="rupam121" /> </p>
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **FrontEnd Development**
 
-- 🌱 I’m currently learning **BackEnd Development**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, React.Js, Node.js, MongoDB, SQL, C/C++**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React.Js, Node.js, MongoDB, SQL, C/C++**
 
 - 📫 How to reach me **rupamgiri16@gmail.com**
 
-- 📄 Experiences [6month Internship]
+- 📄 Experiences [8month Internship]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
