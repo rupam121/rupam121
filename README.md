@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **FrontEnd Development**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently mastering **BackEnd Development**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React.Js, Node.js, MongoDB, SQL, C/C++**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React.Js, Node.js, Express.js, MongoDB, SQL, C++**
 
 - 📫 How to reach me **rupamgiri16@gmail.com**
 
-- 📄 Experiences [8Month Internship + 3Month]
+- 📄 Experiences [1 Year]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
