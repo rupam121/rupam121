@@ -16,8 +16,4 @@
 - 📫 How to reach me **rupamgiri16@gmail.com**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupam121&show_icons=true&locale=en&layout=compact" alt="rupam121" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupam121&show_icons=true&locale=en" alt="rupam121" /></p>
-
   <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupam121&" alt="rupam121" /></p> -->
